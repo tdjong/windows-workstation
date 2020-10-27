@@ -1,0 +1,10 @@
+git
+tortoisegit
+firefox
+7zip
+python
+vscode
+microsoft-teams.install
+conemu
+mobaxterm
+patch-my-pc
