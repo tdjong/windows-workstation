@@ -5,6 +5,4 @@ firefox
 python
 vscode
 microsoft-teams.install
-conemu
-mobaxterm
-patch-my-pc
+tabby
